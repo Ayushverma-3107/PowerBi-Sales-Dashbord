@@ -197,16 +197,7 @@ CALCULATE(
 
 ---
 
-## 📷 Dashboard Preview
 
-
-
-```md
-<img width="1600" height="900" alt="WhatsApp Image 2026-06-22 at 11 33 19 AM" src="https://github.com/user-attachments/assets/bbef476a-7dcb-46f3-9d02-954d92627fb1" />
-
-```
-
----
 
 ## 👨‍💻 Author
 
